@@ -1,5 +1,5 @@
 /*
- * Exercício para praticar o tipo number em JavaScript 
+ * Exercício para praticar Objeto em JavaScript 
  * Objeto é uma coleção chave-valor
  */
 
